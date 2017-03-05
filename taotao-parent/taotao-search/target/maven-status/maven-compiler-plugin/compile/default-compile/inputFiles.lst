@@ -1,0 +1,11 @@
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/dao/SearchDao.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/pojo/SearchResult.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/service/SearchService.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/dao/impl/SearchDaoImpl.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/service/ItemSolrService.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/controller/SearchController.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/mapper/ItemMapper.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/pojo/ItemSolr.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/controller/ItemSolrController.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/service/impl/SearchServiceImpl.java
+/Users/chenhaitao/GitHub/Electricity-Project/taotao-parent/taotao-search/src/main/java/com/taotao/search/service/impl/ItemSolrServiceImpl.java
